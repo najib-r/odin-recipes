@@ -1,0 +1,16 @@
+h1 {
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+
+.ancestor li {
+    font-size:17px;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+}
